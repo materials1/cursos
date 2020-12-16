@@ -1,0 +1,156 @@
+
+		*{
+			margin:0;
+			padding:0;
+		}
+		body{
+			background: linear-gradient(rgb(247, 241, 241),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),red,black,rgb(247, 241, 241));
+		}
+		header, .main, footer{
+			
+			width:100%;
+			max-width:84%;
+			margin:20px auto;
+		}
+		header nav{
+			
+			overflow:hidden; /*desbordarse:oculto*/
+		}
+		header nav ul{
+			list-style:none;
+			font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		}
+		header nav ul li{
+			float:left;
+			
+		}
+		header nav ul li label{
+			padding:17px 17px;
+			display:block;
+			color:rgb(173, 166, 166);
+			text-decoration:none;
+			font-size:19px;
+		}
+		header nav ul li label:hover{
+			background:rgb(100, 112, 94);
+		}
+		.main section{
+			width:100%;
+			max-width:91.3%;
+			float:left;
+			
+		}
+		
+		.main section{
+			padding:10px;
+			background:rgb(0, 0, 0);
+			margin-bottom:20px;
+		}
+		
+		
+		footer{
+			background:rgb(120, 150, 108);
+			color:rgb(7, 7, 7);
+			clear:both;    /*despejado:ambas*/
+			padding:10px 0px;
+			text-align:center;
+		}
+		
+		a, .grud{
+			color:rgb(165, 154, 154);
+			font-size:25px;
+			
+		}
+		
+		label{
+			font-size:18px;
+			
+		}
+		a{
+		  font-size:25px;
+		  line-height:37px; 
+		  text-decoration:none;
+		}
+		.soy{
+			border:40px solid black;
+			text-decoration:none;
+			
+		}
+		
+		.link{
+		
+			background: rgb(25, 37, 48);
+			
+			
+			padding:30px 0px;
+			text-align:center;
+			margin:0px 200px;
+			font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+           
+            display:block;
+        
+            border-radius:4%;
+            box-shadow:15px 15px 15px rgb(0, 195, 255);
+            border: 10px solid rgb(54, 5, 233);
+		}
+		
+		.granlink{
+			font-size:60px;
+			color:rgb(175, 163, 163);
+			line-height:59px;   
+            
+
+		}
+		
+		.granlink :hover{
+			background:rgb(100, 112, 94);
+		}
+		 
+		.tms{
+			background:rgb(77, 230, 230);
+			margin: 0px 150px;
+			padding: 0px 100px;
+		}
+
+		.rmar{
+			font-size: 30px;
+			background: rgb(15, 55, 92);
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+		
+		}
+		.tmsedi{
+			
+			color: black;
+			font-size: 30px;
+			font-family: Arial black, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		}
+		
+		.tex{
+			font-size:27px;
+		}
+		
+		.informacion{
+			background-color:rgb(25, 37, 48);
+			padding: 30px  0px;
+			
+		}
+		.lookinfor{
+			margin:opx 45px ;
+			
+		}
+		
+		.informacione{
+			background: rgb(25, 37, 48);
+			padding: 10px  0px;
+        }
+        
+        .ios{
+            background: rgb(25, 37, 48);
+
+        }
+.ciencias{
+	font-size: 30px;
+	font-family: Arial black, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
