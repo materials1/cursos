@@ -4,7 +4,7 @@
 			padding:0;
 		}
 		body{
-			background: linear-gradient(rgb(247, 241, 241),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),red,black,rgb(247, 241, 241));
+			background: linear-gradient(rgb(25, 37, 48),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),red,black,rgb(247, 241, 241));
 		}
 		header, .main, footer{
 			
@@ -129,6 +129,7 @@
 		
 		.tex{
 			font-size:27px;
+			color: rgb(199, 197, 195);
 		}
 		
 		.informacion{
